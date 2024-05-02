@@ -2,7 +2,7 @@
 name = "boilerbot"
 version = "0.1.0"
 description = ""
-authors = ["hyperoot.tech@proton.me"]
+authors = ["HYP3R00T <hyperoot.tech@proton.me>"]
 license = "MIT"
 readme = "README.md"
 
